@@ -1,3 +1,6 @@
+![](https://github.com/RohanDeySarkar/Whatsapp-Clone-nextjs/blob/main/Screenshot%20(279).png?raw=true)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
